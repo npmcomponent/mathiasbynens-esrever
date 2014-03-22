@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [mathiasbynens/esrever](http://github.com/mathiasbynens/esrever). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/mathiasbynens-esrever`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Esrever [![Build status](https://travis-ci.org/mathiasbynens/esrever.svg?branch=master)](https://travis-ci.org/mathiasbynens/esrever) [![Dependency status](https://gemnasium.com/mathiasbynens/esrever.svg)](https://gemnasium.com/mathiasbynens/esrever)
 
 _Esrever_ is a Unicode-aware string reverser written in JavaScript. It allows you to easily reverse any string of Unicode symbols, while handling combining marks and astral symbols just fine. [Here’s an online demo.](http://mothereff.in/reverse-string)
